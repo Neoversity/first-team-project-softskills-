@@ -4,7 +4,7 @@
 
 ## Фото команди
 
-<img src="https://github.com/Neoversity/first-team-project-softskills-/blob/main/CREATORS.psd" alt="Фото команди" width="500">
+<img src="https://github.com/Neoversity/first-team-project-softskills-/blob/main/CREATORS.jpg" alt="Фото команди" width="500">
 
 
 ## Фото проєкту
@@ -14,7 +14,11 @@
 
 ## Фото посту
 
-<img src="https://drive.google.com/drive/u/0/folders/1FnFzYrr47Hu-Iz7UFlfchC64ikTrl4wu" alt="Фото посту" width="500">
+<img src="https://github.com/Neoversity/first-team-project-softskills-/blob/main/Post.jpg" alt="Фото посту" width="500">
+
+## Посилання на проєкт
+
+[CREATORS](https://drive.google.com/drive/u/0/folders/1FnFzYrr47Hu-Iz7UFlfchC64ikTrl4wu)
 
 
 
