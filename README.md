@@ -4,7 +4,7 @@
 
 ## Фото команди
 
-<img src="https://drive.google.com/drive/u/0/folders/1FnFzYrr47Hu-Iz7UFlfchC64ikTrl4wu" alt="Фото команди" width="500">
+<img src="https://github.com/Neoversity/first-team-project-softskills-/blob/main/CREATORS.psd" alt="Фото команди" width="500">
 
 
 ## Фото проєкту
