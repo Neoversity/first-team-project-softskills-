@@ -9,7 +9,7 @@
 
 ## Фото проєкту
 
-<img src="https://drive.google.com/drive/u/0/folders/1FnFzYrr47Hu-Iz7UFlfchC64ikTrl4wu" alt="Фото проєкту" width="500">
+<img src="https://github.com/Neoversity/first-team-project-softskills-/blob/main/Creators_1.jpg" alt="Фото проєкту" width="500">
 
 
 ## Фото посту
